@@ -1,3 +1,14 @@
+# Hospital Emergency Room Analysis Dashboard
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![Healthcare Analytics](https://img.shields.io/badge/Healthcare-Analytics-blue)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Portfolio-orange)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+
+> An interactive Power BI healthcare analytics project analysing Emergency Room
+> patient volume, waiting time, satisfaction, admission outcomes, referral
+> patterns, demographics, and demand by day and hour.
+
 # 📊 Key Performance Indicators
 
 | KPI | Result |
@@ -244,7 +255,52 @@ Continue improving:
 - Monthly trend analysis
 - Peak-hour analysis
 - Department-level analysis
+
+
 - Automated narrative validation
 - Exact-value verification against rounded dashboard labels
 
 > **Note:** The dashboard's Key Takeaways narrative contained a day-ranking discrepancy. The validated charted totals identify **Saturday (1,377), Thursday (1,332), and Sunday (1,318)** as the highest-volume days. Dashboard-generated narrative text should therefore be cross-checked against the underlying visual data.
+
+
+Repository:
+hospital-er-analysis
+
+Description:
+Power BI Healthcare Analytics Dashboard analysing Emergency Room patient volume,
+wait times, admissions, referrals, demographics and peak demand periods.
+
+Files:
+├── README.md
+├── data/
+│   └── Hospital_ER_Data.csv        
+├── dashboard/
+│   └── Healthcare1.pdf
+├── reports/
+│   └── Hospital_ER_Dashboard_Project_Report.pdf
+
+
+🏥 Hospital Emergency Room Analysis Dashboard
+Project Overview
+↓
+Objectives
+↓
+Dataset
+↓
+Tools
+↓
+Dashboard
+↓
+KPIs
+↓
+Insights
+↓
+Recommendations
+↓
+Project Structure
+↓
+Skills
+↓
+Future Improvements
+↓
+Author
