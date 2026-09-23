@@ -263,21 +263,29 @@ Continue improving:
 > **Note:** The dashboard's Key Takeaways narrative contained a day-ranking discrepancy. The validated charted totals identify **Saturday (1,377), Thursday (1,332), and Sunday (1,318)** as the highest-volume days. Dashboard-generated narrative text should therefore be cross-checked against the underlying visual data.
 
 
-Repository:
-hospital-er-analysis
+# 🏥 Hospital Emergency Room Analysis Dashboard
 
-Description:
-Power BI Healthcare Analytics Dashboard analysing Emergency Room patient volume,
-wait times, admissions, referrals, demographics and peak demand periods.
+**Repository:** `hospital-er-analysis`
 
-Files:
+**Description:** Power BI Healthcare Analytics Dashboard analysing Emergency Room patient volume, wait times, admissions, referrals, demographics, and peak demand periods.
+
+---
+
+## 📁 Project Structure
+
+```text
+hospital-er-analysis/
+│
 ├── README.md
+│
 ├── data/
-│   └── Hospital_ER_Data.csv        
+│   └── Hospital_ER_Data.csv
+│
 ├── dashboard/
 │   └── Healthcare1.pdf
-├── reports/
-│   └── Hospital_ER_Dashboard_Project_Report.pdf
+│
+└── reports/
+    └── Hospital_ER_Dashboard_Project_Report.pdf
 
 
 🏥 Hospital Emergency Room Analysis Dashboard
